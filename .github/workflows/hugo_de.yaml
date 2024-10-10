@@ -27,7 +27,7 @@ jobs:
         - name: Deploy Web
           uses: peaceiris/actions-gh-pages@v4
           with:
-              PERSONAL_TOKEN: ${{ secrets.token }}
+              PERSONAL_TOKEN: ${{ secrets.TOKEN }}
               EXTERNAL_REPOSITORY: respectevery01/hugo
               PUBLISH_BRANCH: main
               PUBLISH_DIR: ./public
