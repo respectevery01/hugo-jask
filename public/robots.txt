@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: https://wyt.icu/hugo/sitemap.xml
