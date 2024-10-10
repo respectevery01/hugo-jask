@@ -2,102 +2,102 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://wyt.icu/hugo-jask/en/posts/research/</loc>
+    <loc>https://woohu.cc/en/posts/research/</loc>
   </url><url>
-    <loc>https://wyt.icu/hugo-jask/en/posts/</loc>
+    <loc>https://woohu.cc/en/posts/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://wyt.icu/hugo-jask/zh/posts/"
+                href="https://woohu.cc/zh/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://wyt.icu/hugo-jask/en/posts/"
+                href="https://woohu.cc/en/posts/"
                 />
   </url><url>
-    <loc>https://wyt.icu/hugo-jask/en/search/</loc>
+    <loc>https://woohu.cc/en/search/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://wyt.icu/hugo-jask/zh/search/"
+                href="https://woohu.cc/zh/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://wyt.icu/hugo-jask/en/search/"
+                href="https://woohu.cc/en/search/"
                 />
   </url><url>
-    <loc>https://wyt.icu/hugo-jask/en/about/</loc>
+    <loc>https://woohu.cc/en/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://wyt.icu/hugo-jask/zh/about/"
+                href="https://woohu.cc/zh/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://wyt.icu/hugo-jask/en/about/"
+                href="https://woohu.cc/en/about/"
                 />
   </url><url>
-    <loc>https://wyt.icu/hugo-jask/en/archives/</loc>
+    <loc>https://woohu.cc/en/archives/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://wyt.icu/hugo-jask/zh/archives/"
+                href="https://woohu.cc/zh/archives/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://wyt.icu/hugo-jask/en/archives/"
+                href="https://woohu.cc/en/archives/"
                 />
   </url><url>
-    <loc>https://wyt.icu/hugo-jask/en/categories/</loc>
+    <loc>https://woohu.cc/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://wyt.icu/hugo-jask/zh/categories/"
+                href="https://woohu.cc/zh/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://wyt.icu/hugo-jask/en/categories/"
+                href="https://woohu.cc/en/categories/"
                 />
   </url><url>
-    <loc>https://wyt.icu/hugo-jask/en/</loc>
+    <loc>https://woohu.cc/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://wyt.icu/hugo-jask/zh/"
+                href="https://woohu.cc/zh/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://wyt.icu/hugo-jask/en/"
+                href="https://woohu.cc/en/"
                 />
   </url><url>
-    <loc>https://wyt.icu/hugo-jask/en/series/</loc>
+    <loc>https://woohu.cc/en/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://wyt.icu/hugo-jask/zh/series/"
+                href="https://woohu.cc/zh/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://wyt.icu/hugo-jask/en/series/"
+                href="https://woohu.cc/en/series/"
                 />
   </url><url>
-    <loc>https://wyt.icu/hugo-jask/en/tags/</loc>
+    <loc>https://woohu.cc/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://wyt.icu/hugo-jask/zh/tags/"
+                href="https://woohu.cc/zh/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://wyt.icu/hugo-jask/en/tags/"
+                href="https://woohu.cc/en/tags/"
                 />
   </url>
 </urlset>
