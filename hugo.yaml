@@ -103,7 +103,7 @@ languages:
         imageHeight: 150
         buttons:
           - name: Research
-            url: /en/research
+            url: /en/posts/research/
       socialIcons:
         - name: twitter
           url: 'https://www.x.com/jask_don'
