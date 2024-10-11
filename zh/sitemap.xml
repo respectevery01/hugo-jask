@@ -2,6 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://woohu.cc/zh/posts/life/24-10-11/</loc>
+    <lastmod>2024-10-11T19:17:22+08:00</lastmod>
+  </url><url>
+    <loc>https://woohu.cc/zh/posts/life/</loc>
+    <lastmod>2024-10-11T19:17:22+08:00</lastmod>
+  </url><url>
+    <loc>https://woohu.cc/zh/posts/</loc>
+    <lastmod>2024-10-11T19:17:22+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://woohu.cc/en/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://woohu.cc/zh/posts/"
+                />
+  </url><url>
+    <loc>https://woohu.cc/zh/</loc>
+    <lastmod>2024-10-11T19:17:22+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://woohu.cc/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://woohu.cc/zh/"
+                />
+  </url><url>
+    <loc>https://woohu.cc/zh/tags/</loc>
+    <lastmod>2024-10-11T19:17:22+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://woohu.cc/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://woohu.cc/zh/tags/"
+                />
+  </url><url>
+    <loc>https://woohu.cc/zh/tags/%E7%94%9F%E6%B4%BB/</loc>
+    <lastmod>2024-10-11T19:17:22+08:00</lastmod>
+  </url><url>
     <loc>https://woohu.cc/zh/archives/</loc>
     <xhtml:link
                 rel="alternate"
@@ -17,20 +65,6 @@
     <loc>https://woohu.cc/zh/posts/tech/</loc>
   </url><url>
     <loc>https://woohu.cc/zh/posts/essay/</loc>
-  </url><url>
-    <loc>https://woohu.cc/zh/posts/life/</loc>
-  </url><url>
-    <loc>https://woohu.cc/zh/posts/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://woohu.cc/en/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://woohu.cc/zh/posts/"
-                />
   </url><url>
     <loc>https://woohu.cc/zh/search/</loc>
     <xhtml:link
@@ -56,18 +90,6 @@
                 href="https://woohu.cc/zh/categories/"
                 />
   </url><url>
-    <loc>https://woohu.cc/zh/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://woohu.cc/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://woohu.cc/zh/"
-                />
-  </url><url>
     <loc>https://woohu.cc/zh/series/</loc>
     <xhtml:link
                 rel="alternate"
@@ -78,18 +100,6 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://woohu.cc/zh/series/"
-                />
-  </url><url>
-    <loc>https://woohu.cc/zh/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://woohu.cc/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://woohu.cc/zh/tags/"
                 />
   </url><url>
     <loc>https://woohu.cc/zh/about/</loc>

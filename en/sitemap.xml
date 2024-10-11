@@ -50,18 +50,6 @@
     <loc>https://woohu.cc/en/tags/web3/</loc>
     <lastmod>2024-10-10T20:00:56+08:00</lastmod>
   </url><url>
-    <loc>https://woohu.cc/en/search/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://woohu.cc/zh/search/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://woohu.cc/en/search/"
-                />
-  </url><url>
     <loc>https://woohu.cc/en/about/</loc>
     <xhtml:link
                 rel="alternate"
@@ -96,6 +84,18 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://woohu.cc/en/categories/"
+                />
+  </url><url>
+    <loc>https://woohu.cc/en/search/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://woohu.cc/zh/search/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://woohu.cc/en/search/"
                 />
   </url><url>
     <loc>https://woohu.cc/en/series/</loc>
