@@ -202,11 +202,11 @@ params:
     #         SiteVerificationTag: "XYZabc"
 
     assets:
-        favicon: "img/logo.jpg"
-        favicon16x16: "img/logo.jpg"
-        favicon32x32: "img/logo.jpg"
-        apple_touch_icon: "logo.jpg"
-        safari_pinned_tab: "logo.jpg"
+        favicon: "favicon.png"
+        favicon16x16: "favicon.png"
+        favicon32x32: "favicon.png"
+        apple_touch_icon: "favicon.png"
+        safari_pinned_tab: "favicon.png"
 
     # cover:
     #     hidden: true # hide everywhere but not in structured data
@@ -274,3 +274,8 @@ services:
         disableInlineCSS: true
     twitter:
         disableInlineCSS: true
+
+services:
+  googleAnalytics:
+    ID: G-HCQ4GSC39E
+
