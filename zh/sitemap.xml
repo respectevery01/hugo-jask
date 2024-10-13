@@ -2,14 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://woohu.cc/zh/posts/life/24-10-11/</loc>
-    <lastmod>2024-10-11T19:17:22+08:00</lastmod>
-  </url><url>
-    <loc>https://woohu.cc/zh/posts/life/</loc>
-    <lastmod>2024-10-11T19:17:22+08:00</lastmod>
+    <loc>https://woohu.cc/zh/posts/tech/</loc>
+    <lastmod>2024-10-13T13:45:44+08:00</lastmod>
   </url><url>
     <loc>https://woohu.cc/zh/posts/</loc>
-    <lastmod>2024-10-11T19:17:22+08:00</lastmod>
+    <lastmod>2024-10-13T13:45:44+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -22,7 +19,7 @@
                 />
   </url><url>
     <loc>https://woohu.cc/zh/</loc>
-    <lastmod>2024-10-11T19:17:22+08:00</lastmod>
+    <lastmod>2024-10-13T13:45:44+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -35,7 +32,7 @@
                 />
   </url><url>
     <loc>https://woohu.cc/zh/tags/</loc>
-    <lastmod>2024-10-11T19:17:22+08:00</lastmod>
+    <lastmod>2024-10-13T13:45:44+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -46,6 +43,21 @@
                 hreflang="zh"
                 href="https://woohu.cc/zh/tags/"
                 />
+  </url><url>
+    <loc>https://woohu.cc/zh/posts/tech/buiild-hugosite2/</loc>
+    <lastmod>2024-10-13T13:45:44+08:00</lastmod>
+  </url><url>
+    <loc>https://woohu.cc/zh/tags/%E5%BB%BA%E7%AB%99/</loc>
+    <lastmod>2024-10-13T13:45:44+08:00</lastmod>
+  </url><url>
+    <loc>https://woohu.cc/zh/posts/tech/buiild-hugosite1/</loc>
+    <lastmod>2024-10-13T13:13:01+08:00</lastmod>
+  </url><url>
+    <loc>https://woohu.cc/zh/posts/life/24-10-11/</loc>
+    <lastmod>2024-10-11T19:17:22+08:00</lastmod>
+  </url><url>
+    <loc>https://woohu.cc/zh/posts/life/</loc>
+    <lastmod>2024-10-11T19:17:22+08:00</lastmod>
   </url><url>
     <loc>https://woohu.cc/zh/tags/%E7%94%9F%E6%B4%BB/</loc>
     <lastmod>2024-10-11T19:17:22+08:00</lastmod>
@@ -61,8 +73,6 @@
                 hreflang="zh"
                 href="https://woohu.cc/zh/archives/"
                 />
-  </url><url>
-    <loc>https://woohu.cc/zh/posts/tech/</loc>
   </url><url>
     <loc>https://woohu.cc/zh/posts/essay/</loc>
   </url><url>
