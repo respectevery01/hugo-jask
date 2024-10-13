@@ -2,126 +2,126 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://woohu.cc/zh/posts/tech/</loc>
+    <loc>https://jask.cc/zh/posts/tech/</loc>
     <lastmod>2024-10-13T13:45:44+08:00</lastmod>
   </url><url>
-    <loc>https://woohu.cc/zh/posts/</loc>
-    <lastmod>2024-10-13T13:45:44+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://woohu.cc/en/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://woohu.cc/zh/posts/"
-                />
-  </url><url>
-    <loc>https://woohu.cc/zh/</loc>
+    <loc>https://jask.cc/zh/posts/</loc>
     <lastmod>2024-10-13T13:45:44+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://woohu.cc/en/"
+                href="https://jask.cc/en/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://woohu.cc/zh/"
+                href="https://jask.cc/zh/posts/"
                 />
   </url><url>
-    <loc>https://woohu.cc/zh/tags/</loc>
+    <loc>https://jask.cc/zh/</loc>
     <lastmod>2024-10-13T13:45:44+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://woohu.cc/en/tags/"
+                href="https://jask.cc/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://woohu.cc/zh/tags/"
+                href="https://jask.cc/zh/"
                 />
   </url><url>
-    <loc>https://woohu.cc/zh/posts/tech/buiild-hugosite2/</loc>
+    <loc>https://jask.cc/zh/tags/</loc>
+    <lastmod>2024-10-13T13:45:44+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jask.cc/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://jask.cc/zh/tags/"
+                />
+  </url><url>
+    <loc>https://jask.cc/zh/posts/tech/buiild-hugosite2/</loc>
     <lastmod>2024-10-13T13:45:44+08:00</lastmod>
   </url><url>
-    <loc>https://woohu.cc/zh/tags/%E5%BB%BA%E7%AB%99/</loc>
+    <loc>https://jask.cc/zh/tags/%E5%BB%BA%E7%AB%99/</loc>
     <lastmod>2024-10-13T13:45:44+08:00</lastmod>
   </url><url>
-    <loc>https://woohu.cc/zh/posts/tech/buiild-hugosite1/</loc>
+    <loc>https://jask.cc/zh/posts/tech/buiild-hugosite1/</loc>
     <lastmod>2024-10-13T13:13:01+08:00</lastmod>
   </url><url>
-    <loc>https://woohu.cc/zh/posts/life/24-10-11/</loc>
+    <loc>https://jask.cc/zh/posts/life/24-10-11/</loc>
     <lastmod>2024-10-11T19:17:22+08:00</lastmod>
   </url><url>
-    <loc>https://woohu.cc/zh/posts/life/</loc>
+    <loc>https://jask.cc/zh/posts/life/</loc>
     <lastmod>2024-10-11T19:17:22+08:00</lastmod>
   </url><url>
-    <loc>https://woohu.cc/zh/tags/%E7%94%9F%E6%B4%BB/</loc>
+    <loc>https://jask.cc/zh/tags/%E7%94%9F%E6%B4%BB/</loc>
     <lastmod>2024-10-11T19:17:22+08:00</lastmod>
   </url><url>
-    <loc>https://woohu.cc/zh/archives/</loc>
+    <loc>https://jask.cc/zh/archives/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://woohu.cc/en/archives/"
+                href="https://jask.cc/en/archives/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://woohu.cc/zh/archives/"
+                href="https://jask.cc/zh/archives/"
                 />
   </url><url>
-    <loc>https://woohu.cc/zh/posts/essay/</loc>
+    <loc>https://jask.cc/zh/posts/essay/</loc>
   </url><url>
-    <loc>https://woohu.cc/zh/search/</loc>
+    <loc>https://jask.cc/zh/search/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://woohu.cc/en/search/"
+                href="https://jask.cc/en/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://woohu.cc/zh/search/"
+                href="https://jask.cc/zh/search/"
                 />
   </url><url>
-    <loc>https://woohu.cc/zh/categories/</loc>
+    <loc>https://jask.cc/zh/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://woohu.cc/en/categories/"
+                href="https://jask.cc/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://woohu.cc/zh/categories/"
+                href="https://jask.cc/zh/categories/"
                 />
   </url><url>
-    <loc>https://woohu.cc/zh/series/</loc>
+    <loc>https://jask.cc/zh/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://woohu.cc/en/series/"
+                href="https://jask.cc/en/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://woohu.cc/zh/series/"
+                href="https://jask.cc/zh/series/"
                 />
   </url><url>
-    <loc>https://woohu.cc/zh/about/</loc>
+    <loc>https://jask.cc/zh/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://woohu.cc/en/about/"
+                href="https://jask.cc/en/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://woohu.cc/zh/about/"
+                href="https://jask.cc/zh/about/"
                 />
   </url>
 </urlset>

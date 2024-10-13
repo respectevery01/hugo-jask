@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>⚙️技术 on Jask&#39;s Blog</title>
-    <link>https://woohu.cc/zh/posts/tech/</link>
+    <link>https://jask.cc/zh/posts/tech/</link>
     <description>Recent content in ⚙️技术 on Jask&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Sun, 13 Oct 2024 13:45:44 +0800</lastBuildDate><atom:link href="https://woohu.cc/zh/posts/tech/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 13 Oct 2024 13:45:44 +0800</lastBuildDate><atom:link href="https://jask.cc/zh/posts/tech/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>搭建hugo静态博客(部署篇)</title>
-      <link>https://woohu.cc/zh/posts/tech/buiild-hugosite2/</link>
+      <link>https://jask.cc/zh/posts/tech/buiild-hugosite2/</link>
       <pubDate>Sun, 13 Oct 2024 13:45:44 +0800</pubDate>
       
-      <guid>https://woohu.cc/zh/posts/tech/buiild-hugosite2/</guid>
+      <guid>https://jask.cc/zh/posts/tech/buiild-hugosite2/</guid>
       <description>&lt;h1 id=&#34;1-准备工作&#34;&gt;1. 准备工作&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/&#34;&gt;Github&lt;/a&gt;&lt;/li&gt;
@@ -33,16 +33,16 @@
 &lt;li&gt;Expiration设置永不&lt;/li&gt;
 &lt;li&gt;勾选&lt;code&gt;repo&lt;/code&gt;和&lt;code&gt;workflow&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://woohu.cc/img/token.png&#34; alt=&#34;image-20241013135433025&#34;  /&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://jask.cc/img/token.png&#34; alt=&#34;image-20241013135433025&#34;  /&gt;
 &lt;/p&gt;</description>
     </item>
     
     <item>
       <title>搭建hugo静态博客(搭建篇)</title>
-      <link>https://woohu.cc/zh/posts/tech/buiild-hugosite1/</link>
+      <link>https://jask.cc/zh/posts/tech/buiild-hugosite1/</link>
       <pubDate>Sun, 13 Oct 2024 13:13:01 +0800</pubDate>
       
-      <guid>https://woohu.cc/zh/posts/tech/buiild-hugosite1/</guid>
+      <guid>https://jask.cc/zh/posts/tech/buiild-hugosite1/</guid>
       <description>&lt;h1 id=&#34;1-准备工作&#34;&gt;1. 准备工作&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/gohugoio/hugo&#34;&gt;hugo&lt;/a&gt;&lt;/li&gt;

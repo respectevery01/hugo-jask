@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Jask&#39;s Blog</title>
-    <link>https://woohu.cc/zh/tags/</link>
+    <link>https://jask.cc/zh/tags/</link>
     <description>Recent content in Tags on Jask&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Sun, 13 Oct 2024 13:45:44 +0800</lastBuildDate><atom:link href="https://woohu.cc/zh/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 13 Oct 2024 13:45:44 +0800</lastBuildDate><atom:link href="https://jask.cc/zh/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>建站</title>
-      <link>https://woohu.cc/zh/tags/%E5%BB%BA%E7%AB%99/</link>
+      <link>https://jask.cc/zh/tags/%E5%BB%BA%E7%AB%99/</link>
       <pubDate>Sun, 13 Oct 2024 13:45:44 +0800</pubDate>
       
-      <guid>https://woohu.cc/zh/tags/%E5%BB%BA%E7%AB%99/</guid>
+      <guid>https://jask.cc/zh/tags/%E5%BB%BA%E7%AB%99/</guid>
       <description></description>
     </item>
     
     <item>
       <title>生活</title>
-      <link>https://woohu.cc/zh/tags/%E7%94%9F%E6%B4%BB/</link>
+      <link>https://jask.cc/zh/tags/%E7%94%9F%E6%B4%BB/</link>
       <pubDate>Fri, 11 Oct 2024 19:17:22 +0800</pubDate>
       
-      <guid>https://woohu.cc/zh/tags/%E7%94%9F%E6%B4%BB/</guid>
+      <guid>https://jask.cc/zh/tags/%E7%94%9F%E6%B4%BB/</guid>
       <description></description>
     </item>
     

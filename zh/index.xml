@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Jask&#39;s Blog</title>
-    <link>https://woohu.cc/zh/</link>
+    <link>https://jask.cc/zh/</link>
     <description>Recent content on Jask&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Sun, 13 Oct 2024 13:45:44 +0800</lastBuildDate><atom:link href="https://woohu.cc/zh/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 13 Oct 2024 13:45:44 +0800</lastBuildDate><atom:link href="https://jask.cc/zh/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>搭建hugo静态博客(部署篇)</title>
-      <link>https://woohu.cc/zh/posts/tech/buiild-hugosite2/</link>
+      <link>https://jask.cc/zh/posts/tech/buiild-hugosite2/</link>
       <pubDate>Sun, 13 Oct 2024 13:45:44 +0800</pubDate>
       
-      <guid>https://woohu.cc/zh/posts/tech/buiild-hugosite2/</guid>
+      <guid>https://jask.cc/zh/posts/tech/buiild-hugosite2/</guid>
       <description>&lt;h1 id=&#34;1-准备工作&#34;&gt;1. 准备工作&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/&#34;&gt;Github&lt;/a&gt;&lt;/li&gt;
@@ -33,16 +33,16 @@
 &lt;li&gt;Expiration设置永不&lt;/li&gt;
 &lt;li&gt;勾选&lt;code&gt;repo&lt;/code&gt;和&lt;code&gt;workflow&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://woohu.cc/img/token.png&#34; alt=&#34;image-20241013135433025&#34;  /&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://jask.cc/img/token.png&#34; alt=&#34;image-20241013135433025&#34;  /&gt;
 &lt;/p&gt;</description>
     </item>
     
     <item>
       <title>搭建hugo静态博客(搭建篇)</title>
-      <link>https://woohu.cc/zh/posts/tech/buiild-hugosite1/</link>
+      <link>https://jask.cc/zh/posts/tech/buiild-hugosite1/</link>
       <pubDate>Sun, 13 Oct 2024 13:13:01 +0800</pubDate>
       
-      <guid>https://woohu.cc/zh/posts/tech/buiild-hugosite1/</guid>
+      <guid>https://jask.cc/zh/posts/tech/buiild-hugosite1/</guid>
       <description>&lt;h1 id=&#34;1-准备工作&#34;&gt;1. 准备工作&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/gohugoio/hugo&#34;&gt;hugo&lt;/a&gt;&lt;/li&gt;
@@ -99,10 +99,10 @@
     
     <item>
       <title>【九月九记】</title>
-      <link>https://woohu.cc/zh/posts/life/24-10-11/</link>
+      <link>https://jask.cc/zh/posts/life/24-10-11/</link>
       <pubDate>Fri, 11 Oct 2024 19:17:22 +0800</pubDate>
       
-      <guid>https://woohu.cc/zh/posts/life/24-10-11/</guid>
+      <guid>https://jask.cc/zh/posts/life/24-10-11/</guid>
       <description>&lt;p&gt;c&lt;/p&gt;
 &lt;h2 id=&#34;人生本就茫然&#34;&gt;人生本就茫然&lt;/h2&gt;
 &lt;p&gt;从上大学到现在，我时常感到迷茫，我不知道我上大学的意义在哪里。这种思想有时会在上课前，亦或者在上课后，但是却没有哪一刻是消失的。&lt;/p&gt;
@@ -113,16 +113,16 @@
     
     <item>
       <title>关于</title>
-      <link>https://woohu.cc/zh/about/</link>
+      <link>https://jask.cc/zh/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://woohu.cc/zh/about/</guid>
+      <guid>https://jask.cc/zh/about/</guid>
       <description>&lt;p&gt;成为最想成为的人。&lt;/p&gt;
 &lt;h3 id=&#34;个人网站集合&#34;&gt;个人网站集合：&lt;/h3&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;a href=&#34;https://readeneveryday.blogspot.com/&#34;&gt;Read English Everyday&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://jaskdon1.substack.com/&#34;&gt;写作专栏&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://woohu.cc/zh/&#34;&gt;博客（双语）&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://jask.cc/zh/&#34;&gt;博客（双语）&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://wyt.icu&#34;&gt;博客（CV）&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://blog.wyt.icu/&#34;&gt;Xlog&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;</description>
