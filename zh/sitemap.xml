@@ -3,10 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://jask.cc/zh/posts/tech/</loc>
-    <lastmod>2024-10-13T13:45:44+08:00</lastmod>
+    <lastmod>2024-10-26T22:02:37+08:00</lastmod>
   </url><url>
     <loc>https://jask.cc/zh/posts/</loc>
-    <lastmod>2024-10-13T13:45:44+08:00</lastmod>
+    <lastmod>2024-10-26T22:02:37+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -19,7 +19,7 @@
                 />
   </url><url>
     <loc>https://jask.cc/zh/</loc>
-    <lastmod>2024-10-13T13:45:44+08:00</lastmod>
+    <lastmod>2024-10-26T22:02:37+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -32,7 +32,7 @@
                 />
   </url><url>
     <loc>https://jask.cc/zh/tags/</loc>
-    <lastmod>2024-10-13T13:45:44+08:00</lastmod>
+    <lastmod>2024-10-26T22:02:37+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -44,10 +44,13 @@
                 href="https://jask.cc/zh/tags/"
                 />
   </url><url>
-    <loc>https://jask.cc/zh/posts/tech/buiild-hugosite2/</loc>
-    <lastmod>2024-10-13T13:45:44+08:00</lastmod>
+    <loc>https://jask.cc/zh/posts/tech/vitepress_build/</loc>
+    <lastmod>2024-10-26T22:02:37+08:00</lastmod>
   </url><url>
     <loc>https://jask.cc/zh/tags/%E5%BB%BA%E7%AB%99/</loc>
+    <lastmod>2024-10-26T22:02:37+08:00</lastmod>
+  </url><url>
+    <loc>https://jask.cc/zh/posts/tech/buiild-hugosite2/</loc>
     <lastmod>2024-10-13T13:45:44+08:00</lastmod>
   </url><url>
     <loc>https://jask.cc/zh/posts/tech/buiild-hugosite1/</loc>
