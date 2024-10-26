@@ -3,7 +3,8 @@ baseURL: https://jask.cc
 languageCode: zh-cn # en-us
 title: Jask's Blog
 theme: PaperMod # 主题名字，和themes文件夹下的一致
-paginate: 10
+pagination:
+  pagerSize: 10
 
 enableInlineShortcodes: true #允许内联短码
 enableEmoji: true # 允许使用 Emoji 表情，建议 true
@@ -25,126 +26,128 @@ defaultContentLanguage: en # 最顶部首先展示的语言页面
 defaultContentLanguageInSubdir: true
 languages:
     zh:
-      languageName: "Chinese"
-      contentDir: content/chinese
-      weight: 1
-      profileMode:
-        enabled: true
-        title: Jask Don
-        subtitle: "📚落魄网络作家|💗2021年加入web3|这个一个知识付费的时代"
-        imageUrl: "https://pic.imgdb.cn/item/67079541d29ded1a8ca0fbbd.jpg"
-        imageTitle:
-        imageWidth: 150
-        imageHeight: 150
-        buttons:
-          - name: 👨🏻‍💻技术
-            url: posts/tech
-          - name: ✏️随笔
-            url: posts/essay
-          - name: 🏖生活
-            url: posts/life
-      socialIcons:
-        - name: github
-          url: 'https://github.com/respectevery01'
-        - name: instagram
-          url: 'https://www.instagram.com/jask_don?igsh=em5wa2hwY3J0ejVq'
-        - name: bolgger
-          url: 'https://readeneveryday.blogspot.com/'
-        - name: email
-          url: 'mailto:jask_don@my.com'
-        - name: rss
-          url: /zh/index.xml
+      params:
+        languageName: "Chinese"
+        contentDir: content/chinese
+        weight: 1
+        profileMode:
+          enabled: true
+          title: Jask Don
+          subtitle: "📚落魄网络作家|💗2021年加入web3|这个一个知识付费的时代"
+          imageUrl: "https://pic.imgdb.cn/item/67079541d29ded1a8ca0fbbd.jpg"
+          imageTitle:
+          imageWidth: 150
+          imageHeight: 150
+          buttons:
+            - name: 👨🏻‍💻技术
+              url: posts/tech
+            - name: ✏️随笔
+              url: posts/essay
+            - name: 🏖生活
+              url: posts/life
+        socialIcons:
+          - name: github
+            url: 'https://github.com/respectevery01'
+          - name: instagram
+            url: 'https://www.instagram.com/jask_don?igsh=em5wa2hwY3J0ejVq'
+          - name: bolgger
+            url: 'https://readeneveryday.blogspot.com/'
+          - name: email
+            url: 'mailto:jask_don@my.com'
+          - name: rss
+            url: /zh/index.xml
 
-      menu:
-        main:
-          - identifier: search
-            name: 🔍搜索
-            url: search
-            weight: 1
-          - identifier: home
-            name: 🏠主页
-            url: /
-            weight: 2
-          - identifier: posts
-            name: 📚文章
-            url: /posts
-            weight: 3
-          - identifier: archives
-            name: ⏱时间轴
-            url: /zh/archives
-            weight: 20
+        menu:
+          main:
+            - identifier: search
+              name: 🔍搜索
+              url: search
+              weight: 1
+            - identifier: home
+              name: 🏠主页
+              url: /
+              weight: 2
+            - identifier: posts
+              name: 📚文章
+              url: /posts
+              weight: 3
+            - identifier: archives
+              name: ⏱时间轴
+              url: /zh/archives
+              weight: 20
           # - identifier: categories
           #   name: 🧩分类
           #   url: categories
           #   weight: 30
-          - identifier: tags
-            name: 🔖标签
-            url: /tags
-            weight: 40
-          - identifier: about
-            name: 🙋🏻‍♂️关于
-            url: /about
-            weight: 50
+            - identifier: tags
+              name: 🔖标签
+              url: /tags
+              weight: 40
+            - identifier: about
+              name: 🙋🏻‍♂️关于
+              url: /about
+              weight: 50
           # - identifier: links
           #   name: 🤝友链
           #   url: links
           #   weight: 60
     en:
-      languageName: "English"
-      contentDir: content/english
-      weight: 1
-      profileMode:
-        enabled: true
-        title: Jask Don
-        subtitle: "La democracia, el Estado de Derecho, el camino hacia la salvación"
-        imageUrl: "https://pic.imgdb.cn/item/67079541d29ded1a8ca0fbbd.jpg"
-        imageTitle:
-        imageWidth: 150
-        imageHeight: 150
-        buttons:
-          - name: Research
-            url: /en/posts/research/
-      socialIcons:
-        - name: twitter
-          url: 'https://www.x.com/jask_don'
-        - name: email
-          url: 'mailto:jask_don@my.com'  
-        - name: 'blog'
-          url: 'https://wyt.icu'  
-        - name: 'rss'
-          url: /en/index.xml
+       params:
+        languageName: "English"
+        contentDir: content/english
+        weight: 1
+        profileMode:
+          enabled: true
+          title: Jask Don
+          subtitle: "La democracia, el Estado de Derecho, el camino hacia la salvación"
+          imageUrl: "https://pic.imgdb.cn/item/67079541d29ded1a8ca0fbbd.jpg"
+          imageTitle:
+          imageWidth: 150
+          imageHeight: 150
+          buttons:
+            - name: Research
+              url: /en/posts/research/
+        socialIcons:
+          - name: twitter
+            url: 'https://www.x.com/jask_don'
+          - name: email
+            url: 'mailto:jask_don@my.com'  
+          - name: 'blog'
+            url: 'https://wyt.icu'  
+          - name: 'rss'
+            url: /en/index.xml
 
 
-      menu:
-        main:
-          - identifier: search
-            name: Search
-            url: search
-            weight: 1
-          - identifier: home
-            name: Home
-            url: /
-            weight: 2
-          - identifier: posts
-            name: Posts
-            url: /posts
-            weight: 3
-          - identifier: archives
-            name: Acrchives
-            url: /archives
-            weight: 20
+        menu:
+          main:
+            - identifier: search
+              name: Search
+              url: search
+              weight: 1
+            - identifier: home
+              name: Home
+              url: /
+              weight: 2
+            - identifier: posts
+              name: Posts
+              url: /posts
+              weight: 3
+            - identifier: archives
+              name: Acrchives
+              url: /archives
+              weight: 20
           # - identifier: categories
           #   name: 🧩分类
           #   url: categories
           #   weight: 30
-          - identifier: tags
-            name: Tags
-            url: /en/tags
-            weight: 40
-          - identifier: about
-            name: About
-            url: /about
-            weight: 50
+            - identifier: tags
+              name: Tags
+              url: /en/tags
+              weight: 40
+            - identifier: about
+              name: About
+              url: /about
+              weight: 50
           # - identifier: links
           #   name: 🤝友链
           #   url: links
