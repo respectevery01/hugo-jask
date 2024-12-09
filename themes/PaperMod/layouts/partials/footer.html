@@ -3,7 +3,9 @@
     {{- if site.Copyright }}
     <span>{{ site.Copyright | markdownify }}</span>
     {{- else }}
-    <span>&copy; 2024-{{ now.Year }} <a href="{{ "" | absLangURL }}">{{ site.Title }}</a></span>
+    <span>&copy; 2024-{{ now.Year }} <a href="{{ "" | absLangURL }}">{{ site.Title }}</a></span><span style="display:none;">
+    <a rel="me" href="https://mastodon.social/@jaskdon">Mastodon</a>
+</span>
     {{- end }}
     <span>
 	All Rights Reserved
