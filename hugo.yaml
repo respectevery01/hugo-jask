@@ -50,6 +50,8 @@ languages:
           url: 'https://www.instagram.com/jask_don?igsh=em5wa2hwY3J0ejVq'
         - name: bolgger
           url: 'https://readeneveryday.blogspot.com/'
+        - name: mastodon
+          url: 'https://mastodon.social/@jaskdon'
         - name: email
           url: 'mailto:jask_don@my.com'
         - name: rss
@@ -107,6 +109,8 @@ languages:
       socialIcons:
         - name: twitter
           url: 'https://www.x.com/jask_don'
+        - name: mastodon
+          url: 'https://mastodon.social/@jaskdon'
         - name: email
           url: 'mailto:jask_don@my.com'  
         - name: 'blog'
