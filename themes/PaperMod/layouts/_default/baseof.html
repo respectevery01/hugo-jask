@@ -4,7 +4,7 @@
 <head>
     {{- partial "head.html" . }}
 </head>
-
+<link href="{{ "fontawesome-all.min.css" | relURL }}" rel="stylesheet" />
 <body class="
 {{- if (or (ne .Kind `page` ) (eq .Layout `archives`) (eq .Layout `search`)) -}}
 {{- print "list" -}}
